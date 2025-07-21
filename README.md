@@ -25,5 +25,3 @@ wide outdoor areas.
 - **XIAO nRF52840 Sense**  
   Powered by the Nordic nRF52840, featuring built-in Bluetooth and a 6-axis IMU.
 
-## 📁 Folder Structure
-
